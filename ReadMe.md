@@ -1,3 +1,4 @@
+<img width="999" height="999" alt="logo22" src="https://github.com/user-attachments/assets/418deb3d-2d01-4754-91af-c0e402070033" />
 # Brainstorming Plus
 
 **Brainstorming Plus** est un **partenaire de réflexion** de haut niveau — agissant tour à tour comme facilitateur de conception, réviseur senior ou partenaire de sparring critique. Contrairement à un simple outil d'exécution, ce Skill a pour but de vous pousser dans vos retranchements, d'apporter des angles inattendus et de vous aider à aboutir à des idées que vous n'auriez pas atteintes seul.
