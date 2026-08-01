@@ -1,51 +1,72 @@
 <img width="999" height="999" alt="logo22" src="https://github.com/user-attachments/assets/418deb3d-2d01-4754-91af-c0e402070033" />
 # Brainstorming Plus
 
-**Brainstorming Plus** est un **partenaire de réflexion** de haut niveau — agissant tour à tour comme facilitateur de conception, réviseur senior ou partenaire de sparring critique. Contrairement à un simple outil d'exécution, ce Skill a pour but de vous pousser dans vos retranchements, d'apporter des angles inattendus et de vous aider à aboutir à des idées que vous n'auriez pas atteintes seul.
+**Brainstorming Plus** is a high-level **thinking partner**—acting alternately as a design facilitator, senior reviewer, or critical sparring partner. Unlike a simple execution tool, this Skill aims to push you to your limits, provide unexpected perspectives, and help you arrive at ideas you wouldn't have reached on your own.
 
-## 🧠 Logique et Philosophie
+## 🧠 Logic and Philosophy
 
-La logique fondamentale de ce Skill repose sur une interaction structurée et une **opinion affirmée**. 
-*   **Partenaire, pas bâtisseur :** Le Skill ne code pas et ne modifie pas les comportements durant cette phase ; il se concentre exclusivement sur la conception et la validation intellectuelle.
-*   **Contradiction constructive :** Il est conçu pour remettre en question vos hypothèses ("Cela suppose X — en sommes-nous sûrs ?") et éviter la convergence précoce vers une solution.
-*   **Divergence avant convergence :** Le Skill encourage l'exploration de multiples options avant de s'arrêter sur un choix définitif.
+The fundamental logic of this Skill is based on structured interaction and a **strong opinion**.
 
-## 🎯 Finalités
+* **Partner, not builder:** The Skill does not code or modify behaviors during this phase; it focuses exclusively on design and intellectual validation.
 
-Les objectifs principaux du Skill sont :
-1.  **Transformer des idées brutes en spécifications validées** par un dialogue structuré.
-2.  **Éviter les pièges courants (Anti-patterns)** tels que le développement de solutions avant d'avoir défini le problème, ou le piège de la parité fonctionnelle avec la concurrence.
-3.  **Garantir la clarté partagée** sur le "quoi", le "pourquoi" et le "pour qui" avant d'écrire la moindre ligne de code.
-4.  **Assurer une rigueur technique** en intégrant systématiquement des exigences non fonctionnelles (performance, échelle, sécurité).
+* **Constructive contradiction:** It is designed to challenge your assumptions ("This assumes X—are we sure about that?") and prevent premature convergence toward a solution.
 
-## ⚙️ Mode de Fonctionnement
+* **Divergence before convergence:** This skill encourages the exploration of multiple options before settling on a final choice.
 
-Le Skill suit un processus rigoureux en **10 étapes clés** pour passer du concept à la spécification finale :
+## 🎯 Objectives
 
-1.  **Cadrage (Frame) :** Analyse de l'existant, des contraintes et décomposition des projets trop complexes.
-2.  **Divergence :** Phase de questions clarifiantes (une question à la fois) pour définir l'usage, les cibles et les critères de succès.
-3.  **Exigences Non-Fonctionnelles (NFR) :** Clarification des attentes en termes de performance, sécurité et maintenance.
-4.  **Verrouillage de la compréhension (Understanding Lock) :** Une étape de validation obligatoire où un résumé est présenté. **Aucun design ne commence sans votre confirmation explicite**.
-5.  **Provocation (Design Approaches) :** Proposition de 2 à 3 approches viables avec leurs compromis respectifs.
-6.  **Convergence :** Présentation détaillée de la conception par sections (architecture, flux de données, etc.).
-7.  **Rédaction du Design Doc :** Création d'un document formel incluant les décisions et les hypothèses.
-8.  **Auto-révision :** Vérification interne pour éliminer toute ambiguïté ou incohérence.
-9.  **Porte de révision utilisateur :** Validation finale du document par vos soins.
-10. **Passage de relais (Handoff) :** Création d'un plan d'implémentation incrémental.
+The main objectives of this skill are:
 
-### Modes de Brainstorming adaptatifs
-Le Skill adapte son comportement selon l'état de votre réflexion :
-*   **Exploration de Problème :** Si le problème n'est pas encore défini.
-*   **Idéation de Solution :** Si le problème est clair mais nécessite des idées divergentes.
-*   **Test d'Hypothèses :** Pour stress-tester une direction déjà choisie.
-*   **Exploration Stratégique :** Pour les décisions à long terme et le positionnement.
+1. **Transforming raw ideas into validated specifications** through structured dialogue.
 
-### Outils et Frameworks mobilisables
-Selon les besoins, le Skill utilise des outils de pensée structurés comme :
-*   **JTBD (Jobs-to-be-Done)** pour comprendre les motivations profondes des utilisateurs.
-*   **SCAMPER** pour transformer un produit existant.
-*   **Boucle OODA** pour la prise de décision rapide en environnement compétitif.
-*   **Inversion (Reverse Brainstorming)** pour identifier les risques en imaginant comment faire échouer le projet.
+2. **Avoiding common pitfalls (anti-patterns)** such as developing solutions before defining the problem, or the trap of functional parity with concurrency.
 
-## 🚦 Critères de Sortie
-Le Skill ne considère la session terminée que lorsque le document de design est approuvé, les risques reconnus et qu'un **journal de décision (Decision Log)** complet a été établi.
+3. **Ensuring shared clarity** on the "what," the "why," and the "for whom" before writing a single line of code.
+
+4. **Ensuring technical rigor** by systematically integrating non-functional requirements (performance, scalability, security).
+
+## ⚙️ How It Works
+
+The Skill follows a rigorous **10 key steps** process to move from concept to final specification:
+
+1. **Frame:** Analysis of the existing system, constraints, and breakdown of overly complex projects.
+
+2. **Divergence:** A phase of clarifying questions (one question at a time) to define the use case, target audience, and success criteria.
+
+3. **Non-Functional Requirements (NFRs):** Clarification of expectations in terms of performance, security, and maintainability.
+
+4. **Understanding Lock:** A mandatory validation step where a summary is presented. **No design begins without your explicit confirmation.**
+
+5. **Design Approaches:** Proposal of 2 to 3 viable approaches with their respective trade-offs.
+
+6. **Convergence:** Detailed presentation of the design by sections (architecture, data flow, etc.).
+
+7. **Design Document Writing:** Creation of a formal document including decisions and assumptions.
+
+8. **Self-Review:** Internal review to eliminate any ambiguity or inconsistency.
+
+9. **User Review Gateway:** Final validation of the document by you.
+
+10. **Handoff:** Creation of an incremental implementation plan.
+
+### Adaptive Brainstorming Modes
+The skill adapts its behavior according to the state of your thinking:
+* **Problem Exploration:** If the problem is not yet defined.
+* **Solution Ideation:** If the problem is clear but requires divergent ideas.
+
+* **Hypothesis Testing:** To stress-test a previously chosen direction.
+
+* **Strategic Exploration:** For long-term decisions and positioning.
+
+### Tools and Frameworks Available
+Depending on the needs, the Skill uses structured thinking tools such as:
+* **JOBS-TO-BE-DONE (JTBD)** to understand users' underlying motivations.
+
+* **SCAMPER** to transform an existing product.
+
+* **OODA Loop** for rapid decision-making in a competitive environment.
+
+* **Reverse Brainstorming** to identify risks by imagining how to make the project fail.
+
+## 🚦 Exit Criteria
+The Skill considers the session complete only when the design document is approved, the risks are acknowledged, and a complete **Decision Log** has been created.
