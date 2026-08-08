@@ -1,4 +1,4 @@
-<img width="999" height="999" alt="logo22" src="https://github.com/user-attachments/assets/418deb3d-2d01-4754-91af-c0e402070033" />
+<img width="666" height="666" alt="logo22" src="https://github.com/user-attachments/assets/418deb3d-2d01-4754-91af-c0e402070033" />
 
 # Brainstorming-Plus V2
 
@@ -6,7 +6,7 @@
 
 [![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://skills.sh/github/habibfarhat/brainstorming-plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-2.0.0-blue)]()
+[![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/bibo3002/brainstorming-plus/releases/tag/v2.0.0)
 
 **English** | [Français](ReadMe_fr.md) | [العربية](ReadMe_ar.md)
 
