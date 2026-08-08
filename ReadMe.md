@@ -4,7 +4,7 @@
 
 > A high-level cognitive sparring partner for brainstorming, strategic thinking, problem-solving, design decisions, and idea evaluation.
 
-[![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://skills.sh/github/habibfarhat/brainstorming-plus)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://skills.sh/github/bibo3002/brainstorming-plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/bibo3002/brainstorming-plus/releases/tag/v2.0.0)
 
@@ -72,7 +72,7 @@ Because Agent Skills have standardized around the `SKILL.md` format, you can ins
 ### Option 1: The `skills.sh` Registry (Recommended)
 
 ```bash
-npx skills add habibfarhat/brainstorming-plus --global
+npx skills add bibo3002/brainstorming-plus --global
 ```
 
 ### Option 2: Manual Global Installation
@@ -87,7 +87,7 @@ Clone this repository and copy it to your agent's global skills directory:
 
 ```bash
 # Universal bash command to install globally
-git clone https://github.com/habibfarhat/brainstorming-plus.git /tmp/brainstorming-plus
+git clone https://github.com/bibo3002/brainstorming-plus.git /tmp/brainstorming-plus
 
 # For Codex CLI
 cp -r /tmp/brainstorming-plus ~/.agents/skills/

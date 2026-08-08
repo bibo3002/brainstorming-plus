@@ -6,7 +6,7 @@
 
 > شريك تفكير معرفي متقدم للعصف الذهني، والتفكير الاستراتيجي، وحل المشكلات، واتخاذ القرارات التصميمية، وتقييم الأفكار.
 
-[![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://skills.sh/github/habibfarhat/brainstorming-plus)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://skills.sh/github/bibo3002/brainstorming-plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)]()
 
@@ -74,7 +74,7 @@ Brainstorming-Plus هو شريك تفكير رفيع المستوى — يتنا
 ### الخيار 1: سجل `skills.sh` (موصى به)
 
 ```bash
-npx skills add habibfarhat/brainstorming-plus --global
+npx skills add bibo3002/brainstorming-plus --global
 ```
 
 ### الخيار 2: التثبيت اليدوي
@@ -89,7 +89,7 @@ npx skills add habibfarhat/brainstorming-plus --global
 
 ```bash
 # أمر bash شامل للتثبيت
-git clone https://github.com/habibfarhat/brainstorming-plus.git /tmp/brainstorming-plus
+git clone https://github.com/bibo3002/brainstorming-plus.git /tmp/brainstorming-plus
 
 # لـ Codex CLI
 cp -r /tmp/brainstorming-plus ~/.agents/skills/
