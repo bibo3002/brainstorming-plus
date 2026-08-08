@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)]()
 
-**English** | [Français](README_fr.md) | [العربية](README_ar.md)
+**English** | [Français](ReadMe_fr.md) | [العربية](ReadMe_ar.md)
 
 ---
 
