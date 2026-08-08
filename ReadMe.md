@@ -4,7 +4,7 @@
 
 > A high-level cognitive sparring partner for brainstorming, strategic thinking, problem-solving, design decisions, and idea evaluation.
 
-[![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://skills.sh/github/bibo3002/brainstorming-plus)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Registry-000000?logo=vercel&logoColor=white)](https://www.skills.sh/bibo3002/brainstorming-plus/brainstorming-plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/bibo3002/brainstorming-plus/releases/tag/v2.0.0)
 
