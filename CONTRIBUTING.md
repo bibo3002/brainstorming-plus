@@ -1,0 +1,1 @@
+contributors proposing new cognitive techniques must validate them against the 7 scenarios in `EXAMPLES.md`, and that any changes to the English `README.md` must be mirrored in the `.fr` and `.ar` versions.

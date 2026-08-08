@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-<img width="999" height="999" alt="logo22" src="https://github.com/user-attachments/assets/418deb3d-2d01-4754-91af-c0e402070033" />
+<img width="1280" height="640" alt="logo3" src="https://repository-images.githubusercontent.com/1299189033/ba2bd2de-4547-458c-9898-bd63c488ea35" />
 
 # Brainstorming-Plus V2
 
@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)]()
 
-[English](README.md) | [Français](README_fr.md) | **العربية**
+[English](ReadMe.md) | [Français](ReadMe.fr.md) | **العربية**
 
 ---
 
